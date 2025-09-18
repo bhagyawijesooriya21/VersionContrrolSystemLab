@@ -1,5 +1,4 @@
 Hi mate
 Welcome to learn about GitHub
 This is a test line for Git conflict: main branch
-Hi mate this is test!!
-The testing line from test branch
+Hi mate this from test
